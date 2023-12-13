@@ -1,0 +1,6 @@
+How to start my project
+
+firstly, create virtual machine
+
+on
+source venv/bin/activate
