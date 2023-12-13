@@ -1,0 +1,3 @@
+To run react appp
+npx create-react-app forntend
+
