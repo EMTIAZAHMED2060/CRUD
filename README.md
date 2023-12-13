@@ -18,3 +18,7 @@ creating our django project and app
 changing our settings
 including our urls
 migrating our database -->
+
+
+<!--                                                 Day-01
+1. seeting up our backend project with python django -->
