@@ -1,10 +1,4 @@
 # CRUD
- 
-# I am creating a CRUD operation with Python Django and React 
-
-
-# ----------- Lectures One ----------------
-
 <!-- 1. Setting up our python Backend
 2. creating our react JS Frontend
 3. Page Navigation with React Router
